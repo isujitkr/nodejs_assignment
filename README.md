@@ -20,20 +20,20 @@ This project is a Node.js application for managing forms. It provides APIs to cr
 2. Navigate to the project directory:
    ```bash 
    cd nodejs-assignment
-
+3. Create a .env file in the root of your project with the following environment variables:
+   ```bash
+   DB_PASSWORD=Your_Password
+   PORT=3000
 4. Install dependencies:
    ```bash
-      npm install
+   npm install
 
 ## Usage
 
 1. Start the server:
    ```bash
-       node index.js
+   node index.js
 2. Open the HTML form in your web browser:
    ```bash
    Navigate to http://localhost:3000/form.html
-3. Create a .env file in the root of your project with the following environment variables:
-   ```bash
-   DB_PASSWORD=Your_Password
-   PORT=3000
+
