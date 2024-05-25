@@ -29,9 +29,9 @@ This project is a Node.js application for managing forms. It provides APIs to cr
 
 1. Start the server:
    ```bash
-       node inex.js
+       node index.js
 2. Open the HTML form in your web browser:
    ```bash
-   Navigate to http://localhost:3000/form.html.
+   Navigate to http://localhost:3000/form.html
 
 
