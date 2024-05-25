@@ -33,5 +33,7 @@ This project is a Node.js application for managing forms. It provides APIs to cr
 2. Open the HTML form in your web browser:
    ```bash
    Navigate to http://localhost:3000/form.html
-
-
+3. Create a .env file in the root of your project with the following environment variables:
+   ```bash
+   DB_PASSWORD=Your_Password
+   PORT=3000
