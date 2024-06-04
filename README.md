@@ -15,7 +15,7 @@ This project is a Node.js application for managing forms. It provides APIs to cr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nodejs-assignment.git
+   git clone https://github.com/isujitkr/nodejs-assignment.git
    
 2. Navigate to the project directory:
    ```bash 
